@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a peer driven platform for users to practice mock interviews && looking for a role in the software dev spave <br>I’m currently learning React
+I am currently working on a peer driven platform for users to practice mock interviews && looking for a role in the software dev spave <br>I’m working on building my portfolio using React, TypeScript and Tailwind CSS.
 
 
 # 💻 Tech Stack:
