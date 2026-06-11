@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a peer driven platform for users to practice mock interviews && looking for a role in the software dev spave <br>I’m working on building my portfolio using React, TypeScript and Tailwind CSS.
+ Hi, I'm Elizabeth. A software engineer with ~3 years of experience. I have a background in data science (Python, ML) and a love for front-end development. 
 
 
 # 💻 Tech Stack:
